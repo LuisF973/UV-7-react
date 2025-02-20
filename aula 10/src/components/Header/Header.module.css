@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* ou qualquer altura */
+  }
+  
+
+.Header .header h1 {
+    margin: 0 0 1rem;
+}
+
+.Header .header nav ul {
+    list-style: none;
+    padding: 0;
+
+}

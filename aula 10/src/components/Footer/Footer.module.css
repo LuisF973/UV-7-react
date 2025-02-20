@@ -1,0 +1,13 @@
+.footer{
+    background-color: black;
+    display: grid;
+    place-items: center;
+    
+}
+
+.footer .outrofooter{
+    background-color:blue;
+    display: grid;
+    place-items: center;
+}
+
